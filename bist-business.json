@@ -1,0 +1,786 @@
+{
+  "THYAO": {
+    "business": "Türk Hava Yolları yolcu ve hava kargo taşımacılığı yapar. Bağlantılı uçuş ağı ve uçak bakım faaliyetleri grup iş modelini tamamlar.",
+    "drivers": [
+      "İzlenecek: aktarma ağı üzerinden yolcu ve kargo talebi",
+      "İzlenecek: filo verimliliği ve doluluk"
+    ],
+    "risks": [
+      "İzlenecek risk: yakıt ve uçak kiralama maliyetleri",
+      "İzlenecek risk: jeopolitik olayların uçuş talebine etkisi"
+    ],
+    "sources": [
+      "https://www.turkishairlines.com/tr-nl/basin-odasi/hakkimizda/ortakliklar/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ASELS": {
+    "business": "ASELSAN savunma elektroniği ve sistem entegrasyonu geliştirir. Radar, elektronik harp, haberleşme, elektro-optik ve hava savunma ürünlerinin yanında sivil teknoloji çözümleri de sunar.",
+    "drivers": [
+      "İzlenecek: siparişlerin teslimata dönüşümü",
+      "İzlenecek: ihracat ve yerli teknoloji geliştirme"
+    ],
+    "risks": [
+      "İzlenecek risk: uzun proje ve tahsilat döngüleri",
+      "İzlenecek risk: tedarik ve ihracat izinleri"
+    ],
+    "sources": [
+      "https://www.aselsan.com/tr/about"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TUPRS": {
+    "business": "Tüpraş ham petrolü işleyerek akaryakıt ve diğer rafineri ürünlerini üretir. Lojistik, ticaret ve enerji faaliyetleri rafinaj işini destekler.",
+    "drivers": [
+      "İzlenecek: rafineri verimliliği ve ürün marjları",
+      "İzlenecek: enerji dönüşümü yatırımlarının getirisi"
+    ],
+    "risks": [
+      "İzlenecek risk: petrol ve ürün fiyatları arasındaki makas",
+      "İzlenecek risk: bakım duruşları ve karbon maliyetleri"
+    ],
+    "sources": [
+      "https://www.tupras.com.tr/tr/yatirimci-iliskileri-sss"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "BIMAS": {
+    "business": "BİM sınırlı ürün çeşitliliği ve özel markalarla yüksek indirimli gıda perakendeciliği yapar. Mağaza ve lojistik ağıyla günlük ihtiyaç ürünlerini tüketiciye ulaştırır.",
+    "drivers": [
+      "İzlenecek: benzer mağaza satışları ve stok devri",
+      "İzlenecek: tedarik ve dağıtım verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: ücret, kira ve lojistik giderleri",
+      "İzlenecek risk: fiyat rekabetinin marjlara etkisi"
+    ],
+    "sources": [
+      "https://www.bim.com.tr/Categories/108/hakkimizda.aspx?v=1.0.23"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "AKBNK": {
+    "business": "Akbank bireysel, ticari, KOBİ ve kurumsal bankacılık hizmetleri verir. Kredi, mevduat, ödeme sistemleri ve hazine işlemleri gelir modelinin temel parçalarıdır.",
+    "drivers": [
+      "İzlenecek: net faiz marjı ve komisyon gelirleri",
+      "İzlenecek: dijital kanalların verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: kredi kalitesi ve karşılık ihtiyacı",
+      "İzlenecek risk: fonlama maliyeti ve düzenlemeler"
+    ],
+    "sources": [
+      "https://www.akbank.com/bankamiz/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "GARAN": {
+    "business": "Garanti BBVA bireysel ve kurumsal bankacılığın yanında ödeme sistemleri hizmeti sunar. Finansal iştirakleri sigorta, kiralama, faktoring ve yatırım hizmetlerini tamamlar.",
+    "drivers": [
+      "İzlenecek: mevduat tabanı ve ücret gelirleri",
+      "İzlenecek: dijital müşteri kullanımının verimliliğe katkısı"
+    ],
+    "risks": [
+      "İzlenecek risk: kredi kalitesi ve karşılıklar",
+      "İzlenecek risk: faiz değişimi ve fonlama maliyeti"
+    ],
+    "sources": [
+      "https://www.garantibbvainvestorrelations.com/tr/garanti-hakkinda/detay/Garanti%20BBVA-Hakkinda/343/1009/0"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ISCTR": {
+    "business": "İş Bankası bireysel ve ticari müşterilere kredi, mevduat ve ödeme hizmetleri sunar. Dijital kanalları ve iştirakleri bankacılık faaliyetlerini destekler.",
+    "drivers": [
+      "İzlenecek: kredi-mevduat dengesi ve komisyonlar",
+      "İzlenecek: iştiraklerin konsolide sonuçlara katkısı"
+    ],
+    "risks": [
+      "İzlenecek risk: sorunlu krediler ve karşılık gideri",
+      "İzlenecek risk: faiz marjı ve sermaye yeterliliği"
+    ],
+    "sources": [
+      "https://www.isbank.com.tr/bankamizi-taniyin/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "YKBNK": {
+    "business": "Yapı Kredi bireysel ve ticari bankacılık hizmetleri sunar. Şube ve dijital kanallar üzerinden kredi, mevduat ve ödeme çözümlerini müşterilere ulaştırır.",
+    "drivers": [
+      "İzlenecek: müşteri işlemleri ve komisyon üretimi",
+      "İzlenecek: dijital kanalların maliyetlere etkisi"
+    ],
+    "risks": [
+      "İzlenecek risk: kredi portföyü kalitesi",
+      "İzlenecek risk: mevduat maliyeti ve faiz marjı"
+    ],
+    "sources": [
+      "https://www.yapikrediinvestorrelations.com/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "EREGL": {
+    "business": "Erdemir grubu entegre tesislerde yassı ve uzun çelik üretir. Madencilik ve çelik servis faaliyetleri sanayi müşterilerine sunulan üretimi tamamlar.",
+    "drivers": [
+      "İzlenecek: çelik talebi ve kapasite kullanımı",
+      "İzlenecek: yüksek katma değerli ürün karması"
+    ],
+    "risks": [
+      "İzlenecek risk: demir cevheri, kömür ve enerji maliyeti",
+      "İzlenecek risk: küresel çelik fiyatları ve karbon dönüşümü"
+    ],
+    "sources": [
+      "https://www.erdemir.com.tr/kurumsal/kurumsal-alt-sayfa"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "KCHOL": {
+    "business": "Koç Holding enerji, otomotiv, dayanıklı tüketim ve finans alanlarındaki iştiraklerden oluşan bir yatırım grubudur. Holding düzeyinde sermaye tahsisi ve iştiraklerden sağlanan nakit akışları önem taşır.",
+    "drivers": [
+      "İzlenecek: iştiraklerden gelen temettü ve nakit",
+      "İzlenecek: portföy çeşitliliği ve sermaye tahsisi"
+    ],
+    "risks": [
+      "İzlenecek risk: ana sektörlerde eş zamanlı talep daralması",
+      "İzlenecek risk: holding borcu ve iştirak yatırım yükü"
+    ],
+    "sources": [
+      "https://www.koc.com.tr/faaliyet-alanlari/sektorler"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "SAHOL": {
+    "business": "Sabancı Holding bankacılık, enerji, malzeme ve dijital teknolojiler gibi alanlardaki iştirakleri yönetir. Sermaye tahsisi ve grup şirketlerinin performansı holding değerini birlikte etkiler.",
+    "drivers": [
+      "İzlenecek: iştirak nakit akışları ve portföy dönüşümü",
+      "İzlenecek: enerji ve malzeme yatırımlarının getirisi"
+    ],
+    "risks": [
+      "İzlenecek risk: yeni yatırımların geri dönüş süresi",
+      "İzlenecek risk: finansman gideri ve sektör döngüleri"
+    ],
+    "sources": [
+      "https://yatirimciiliskileri.sabanci.com/tr/2025-faaliyet-raporu/sabanci-holding-hakkinda.aspx"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "FROTO": {
+    "business": "Ford Otosan Türkiye ve Romanya tesislerinde binek ve ticari araç üretir. İhracat, mühendislik, motor ve aktarma organları faaliyetleri iş modelini tamamlar.",
+    "drivers": [
+      "İzlenecek: Avrupa ticari araç talebi",
+      "İzlenecek: yeni modeller ve elektrikli araç kapasitesi"
+    ],
+    "risks": [
+      "İzlenecek risk: model geçişi ve yatırım harcamaları",
+      "İzlenecek risk: ihracat pazarı, kur ve tedarik zinciri"
+    ],
+    "sources": [
+      "https://fordotosan.com.tr/tr/yatirimcilar/sikca-sorulan-sorular"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TOASO": {
+    "business": "Tofaş Bursa tesisinde otomobil ve hafif ticari araç üretir. Stellantis markalarının Türkiye dağıtımı ve satış sonrası hizmetleri üretim faaliyetlerini tamamlar.",
+    "drivers": [
+      "İzlenecek: yeni üretim programları ve ihracat",
+      "İzlenecek: dağıtım ve servis ağının katkısı"
+    ],
+    "risks": [
+      "İzlenecek risk: model geçişlerinin kapasite kullanımına etkisi",
+      "İzlenecek risk: iç talep, ithalat rekabeti ve finansman maliyeti"
+    ],
+    "sources": [
+      "https://www.tofas.com.tr/Hakkimizda/GenelBakis"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "SISE": {
+    "business": "Şişecam düz cam, cam ambalaj, cam ev eşyası ve kimyasallar üretir. Çok ülkeli tesisleri farklı sanayi ve tüketim pazarlarına ürün sağlar.",
+    "drivers": [
+      "İzlenecek: ürün karması ve uluslararası satışlar",
+      "İzlenecek: tesis verimliliği ve kapasite kullanımı"
+    ],
+    "risks": [
+      "İzlenecek risk: enerji ve soda külü fiyat döngüsü",
+      "İzlenecek risk: inşaat ve sanayi talebindeki zayıflama"
+    ],
+    "sources": [
+      "https://www.sisecam.com/tr/kurumsal"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TCELL": {
+    "business": "Turkcell mobil iletişim ve fiber internet hizmetleri sunar. Veri merkezleri, bulut ve kurumsal dijital çözümler bağlantı hizmetlerini tamamlar.",
+    "drivers": [
+      "İzlenecek: abone başına gelir ve müşteri devamlılığı",
+      "İzlenecek: veri merkezi ve kurumsal servis talebi"
+    ],
+    "risks": [
+      "İzlenecek risk: lisans, frekans ve şebeke yatırım yükü",
+      "İzlenecek risk: rekabet, düzenleme ve siber güvenlik"
+    ],
+    "sources": [
+      "https://www.turkcell.com.tr/hakkimizda/genel-bakis/genel-bakis/detay"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TTKOM": {
+    "business": "Türk Telekom sabit telefon, genişbant internet, mobil ve TV hizmetlerini birlikte sunar. Fiber altyapı ve uluslararası bağlantılar entegre iletişim modelinin temelidir.",
+    "drivers": [
+      "İzlenecek: fiber kullanımının ve mobil gelirin gelişimi",
+      "İzlenecek: abone başına gelir ve yatırım verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: altyapı ve frekans yatırım maliyeti",
+      "İzlenecek risk: düzenlemeler ve fiyat rekabeti"
+    ],
+    "sources": [
+      "https://www.turktelekom.com.tr/hakkimizda/detay?p=tab3"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ENKAI": {
+    "business": "ENKA uluslararası mühendislik ve inşaat projeleri yürütür. Enerji üretimi, gayrimenkul ve ticaret işleri gelir kaynaklarını çeşitlendirir.",
+    "drivers": [
+      "İzlenecek: proje portföyü ve teslimat performansı",
+      "İzlenecek: enerji ve kira gelirlerinin katkısı"
+    ],
+    "risks": [
+      "İzlenecek risk: proje maliyeti ve tahsilat takvimi",
+      "İzlenecek risk: ülke, yaptırım ve enerji fiyatı etkileri"
+    ],
+    "sources": [
+      "https://www.enka.com/tr/hakkimizda/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "SASA": {
+    "business": "SASA polyester elyaf, filament, PET ve polimer ürünleri üretir. Tekstil ve sanayi müşterilerine hammadde sağlayan tesisleri entegre üretim modelini oluşturur.",
+    "drivers": [
+      "İzlenecek: yeni kapasitenin devreye alınması ve kullanımı",
+      "İzlenecek: hammadde entegrasyonunun maliyete etkisi"
+    ],
+    "risks": [
+      "İzlenecek risk: yüksek yatırım ve borç servis yükü",
+      "İzlenecek risk: polyester talebi ve ürün-hammadde fiyat makası"
+    ],
+    "sources": [
+      "https://www.sasa.com.tr/kurumsal-hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "PGSUS": {
+    "business": "Pegasus düşük maliyetli havayolu modeliyle yolcu taşır. Bilet satışına eklenen bagaj ve diğer isteğe bağlı hizmetler gelir modelini tamamlar.",
+    "drivers": [
+      "İzlenecek: doluluk ve uçak kullanım verimliliği",
+      "İzlenecek: yolcu başına yan gelirler"
+    ],
+    "risks": [
+      "İzlenecek risk: yakıt ve uçak finansman maliyeti",
+      "İzlenecek risk: turizm talebi ve operasyon kesintileri"
+    ],
+    "sources": [
+      "https://www.pegasusinvestorrelations.com/en/about-pegasus/business-model"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TAVHL": {
+    "business": "TAV Havalimanları havalimanı ve terminal işletmeciliği yapar. Yer hizmetleri, yiyecek-içecek, perakende ve ağırlama hizmetleri havacılık gelirlerini tamamlar.",
+    "drivers": [
+      "İzlenecek: yolcu trafiği ve ticari gelirler",
+      "İzlenecek: farklı havalimanlarının portföye katkısı"
+    ],
+    "risks": [
+      "İzlenecek risk: imtiyaz süreleri ve yatırım yükümlülükleri",
+      "İzlenecek risk: turizm, ülke ve havayolu trafiği şokları"
+    ],
+    "sources": [
+      "https://ir.tav.aero/tr-TR/tav-havalimanlari"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "MGROS": {
+    "business": "Migros mağaza ve çevrim içi kanallardan gıda ve günlük ihtiyaç ürünleri satar. Farklı mağaza formatları ile dijital teslimat hizmetleri çok kanallı perakende modelini oluşturur.",
+    "drivers": [
+      "İzlenecek: benzer mağaza satışları ve online sipariş verimliliği",
+      "İzlenecek: stok devri ve ürün karması"
+    ],
+    "risks": [
+      "İzlenecek risk: ücret, kira ve teslimat maliyetleri",
+      "İzlenecek risk: rekabetin faaliyet marjına etkisi"
+    ],
+    "sources": [
+      "https://migroskurumsal.com/yatirimci-iliskileri/kurumsal"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "AEFES": {
+    "business": "Anadolu Efes bira ve malt üretimi ile satış faaliyetleri yürütür. Coca-Cola İçecek iştiraki üzerinden meşrubat işinde de pay sahibidir.",
+    "drivers": [
+      "İzlenecek: bira hacmi, fiyatlama ve ürün karması",
+      "İzlenecek: coğrafi ve içecek kategorisi çeşitliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: alkollü içecek vergileri ve düzenlemeler",
+      "İzlenecek risk: ülke, kur ve hammadde maliyetleri"
+    ],
+    "sources": [
+      "https://anadoluefes.com/Upload/Docs/2025/FinansalSonuclar/AEFES_EFR25_TR.pdf"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "CCOLA": {
+    "business": "Coca-Cola İçecek gazlı ve gazsız içeceklerin üretim, dağıtım ve satışını yapar. Birden çok ülkedeki şişeleme ve satış ağı marka sahibinin konsantresini tüketici ürününe dönüştürür.",
+    "drivers": [
+      "İzlenecek: satış hacmi ve ürün/ambalaj karması",
+      "İzlenecek: dağıtım verimliliği ve yeni pazarlar"
+    ],
+    "risks": [
+      "İzlenecek risk: şeker, ambalaj ve su maliyeti",
+      "İzlenecek risk: ülke, kur ve tüketici talebi değişimi"
+    ],
+    "sources": [
+      "https://www.cci.com.tr/sss"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ULKER": {
+    "business": "Ülker Bisküvi bisküvi, çikolata, kek, kraker ve gofret üretir. Markalı ürünleri yurt içi ve yurt dışı pazarlarda dağıtım kanalları üzerinden satar.",
+    "drivers": [
+      "İzlenecek: marka talebi ve ürün karması",
+      "İzlenecek: fiyatlama ile satış hacmi dengesi"
+    ],
+    "risks": [
+      "İzlenecek risk: kakao, şeker, yağ ve ambalaj maliyeti",
+      "İzlenecek risk: borçlanma maliyeti ve döviz hareketleri"
+    ],
+    "sources": [
+      "https://ulkerbiskuviyatirimciiliskileri.com/ulker-hakkinda/sikca-sorulan-sorular/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ARCLK": {
+    "business": "Arçelik beyaz eşya ve ev aletlerini uluslararası markalarıyla üretip satar. Üretim tesisleri, dağıtım ve servis ağı küresel tüketici pazarına hizmet verir.",
+    "drivers": [
+      "İzlenecek: marka ve coğrafya çeşitliliği",
+      "İzlenecek: kapasite, entegrasyon ve maliyet verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: dayanıklı tüketim talebi ve fiyat rekabeti",
+      "İzlenecek risk: finansman, yeniden yapılanma ve girdi maliyetleri"
+    ],
+    "sources": [
+      "https://www.arcelikglobal.com/en/company/about-us/overview/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ASTOR": {
+    "business": "Astor güç ve dağıtım transformatörleri ile orta gerilim anahtarlama ürünleri üretir. Elektrik iletim ve dağıtım altyapısına ekipman satar ve teknik servis sunar.",
+    "drivers": [
+      "İzlenecek: şebeke yatırım talebi ve ihracat",
+      "İzlenecek: sipariş teslimatı ve üretim kapasitesi"
+    ],
+    "risks": [
+      "İzlenecek risk: bakır, sac ve diğer girdi maliyetleri",
+      "İzlenecek risk: proje takvimi ve tahsilat döngüsü"
+    ],
+    "sources": [
+      "https://astoras.com.tr/hakkimizda/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ENJSA": {
+    "business": "Enerjisa Enerji elektrik dağıtımı, perakende satış ve müşteri çözümleri sunar. Dağıtım şebekesi yatırımları ile enerji hizmetleri şirketin iş modelini oluşturur.",
+    "drivers": [
+      "İzlenecek: düzenlemeye tabi varlık tabanı ve yatırım geri dönüşü",
+      "İzlenecek: müşteri çözümleri ve enerji verimliliği işleri"
+    ],
+    "risks": [
+      "İzlenecek risk: tarife ve düzenleme değişiklikleri",
+      "İzlenecek risk: yatırım finansmanı ve tahsilat ihtiyacı"
+    ],
+    "sources": [
+      "https://www.enerjisa.com.tr/tr/enerjisa-hakkinda/sirket-profili"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "AKSEN": {
+    "business": "Aksa Enerji elektrik üretim tesisleri kurar ve işletir. Türkiye ve yurt dışındaki santrallerden ürettiği elektrik veya kapasiteyi müşterilere satar.",
+    "drivers": [
+      "İzlenecek: santral kullanılabilirliği ve yeni proje teslimleri",
+      "İzlenecek: ülke ve sözleşme çeşitliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: yakıt fiyatı ve tedarik sürekliliği",
+      "İzlenecek risk: ülke, karşı taraf ve tahsilat riski"
+    ],
+    "sources": [
+      "https://www.aksaenerji.com.tr/yatirimci-iliskileri/sikca-sorulan-sorular"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ENERY": {
+    "business": "Enerya bölgesel lisanslar kapsamında doğal gaz dağıtım faaliyetleri yürütür. Şebeke yatırımları ve abone hizmetleri dağıtım işinin temelini oluşturur.",
+    "drivers": [
+      "İzlenecek: abone ve dağıtım şebekesi gelişimi",
+      "İzlenecek: düzenlenen yatırım ve tarife mekanizması"
+    ],
+    "risks": [
+      "İzlenecek risk: lisans ve tarife düzenlemeleri",
+      "İzlenecek risk: hava koşulları, tahsilat ve yatırım finansmanı"
+    ],
+    "sources": [
+      "https://www.enerya.com.tr/kurumsal/enerya-hakkinda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "ALARK": {
+    "business": "Alarko Holding enerji, turizm, tarım ve diğer faaliyetlerdeki grup şirketlerine yatırım yapar. İştiraklerin nakit üretimi ve yeni yatırımların getirisi holding için birlikte değerlendirilir.",
+    "drivers": [
+      "İzlenecek: enerji iştiraklerinin katkısı",
+      "İzlenecek: tarım ve turizm yatırımlarının işletmeye dönüşümü"
+    ],
+    "risks": [
+      "İzlenecek risk: yeni yatırımların zaman ve finansman ihtiyacı",
+      "İzlenecek risk: enerji fiyatı, mevsimsellik ve ülke etkileri"
+    ],
+    "sources": [
+      "https://www.alarko.com.tr/hakkimizda/alarko-holding/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "SOKM": {
+    "business": "Şok Marketler indirimli mahalle mağazaları üzerinden temel ihtiyaç ürünleri satar. Dağıtım merkezleri ve dijital kanalları mağaza ağını destekler.",
+    "drivers": [
+      "İzlenecek: benzer mağaza satışları ve sepet büyüklüğü",
+      "İzlenecek: mağaza ve lojistik verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: ücret, kira ve dağıtım giderleri",
+      "İzlenecek risk: fiyat rekabeti ve stok yönetimi"
+    ],
+    "sources": [
+      "https://kurumsal.sokmarket.com.tr/tr/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "OYAKC": {
+    "business": "OYAK Çimento çimento ve hazır beton üretim faaliyetleri yürütür. Farklı bölgelerdeki tesisleri inşaat ve altyapı müşterilerine hizmet sağlar.",
+    "drivers": [
+      "İzlenecek: bölgesel inşaat talebi ve kapasite kullanımı",
+      "İzlenecek: ürün ve lojistik verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: yakıt, elektrik ve nakliye maliyeti",
+      "İzlenecek risk: inşaat döngüsü ve karbon dönüşümü yatırımları"
+    ],
+    "sources": [
+      "https://oyakcimento.com/tr/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "CIMSA": {
+    "business": "Çimsa gri çimento, beyaz çimento ve kalsiyum alüminat çimentosu üretir. Türkiye ve yurt dışındaki üretim ve dağıtım ağı farklı yapı malzemesi pazarlarına hizmet verir.",
+    "drivers": [
+      "İzlenecek: özel çimentoların ürün karmasına katkısı",
+      "İzlenecek: uluslararası tesislerin kapasite kullanımı"
+    ],
+    "risks": [
+      "İzlenecek risk: enerji, nakliye ve karbon maliyeti",
+      "İzlenecek risk: yatırım entegrasyonu ve inşaat talebi"
+    ],
+    "sources": [
+      "https://cimsa.com.tr/kurumsal/cimsa-hakkinda/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "EKGYO": {
+    "business": "Emlak Konut GYO gayrimenkul projeleri geliştirir ve arsa portföyünü değerlendirir. Arsa satışı karşılığı gelir paylaşımı ve proje satışları iş modelinde yer alır.",
+    "drivers": [
+      "İzlenecek: ön satışlar, tahsilatlar ve proje teslimleri",
+      "İzlenecek: arsa değerleme ve ihale sonuçları"
+    ],
+    "risks": [
+      "İzlenecek risk: konut talebi ve finansmana erişim",
+      "İzlenecek risk: yüklenici performansı ve inşaat maliyetleri"
+    ],
+    "sources": [
+      "https://emlakkonut.com.tr/images/uploads/original/34b108f0f4df407e9efd4abbd588601a.pdf"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TTRAK": {
+    "business": "TürkTraktör New Holland ve Case IH marka traktörler üretir. İş makineleri, komponent üretimi ve satış sonrası hizmetleri tarım makineleri işini tamamlar.",
+    "drivers": [
+      "İzlenecek: tarımsal mekanizasyon ve yenileme talebi",
+      "İzlenecek: ihracat ve komponent üretim verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: çiftçi geliri ve kredi koşulları",
+      "İzlenecek risk: tarımsal hava koşulları ve stok birikimi"
+    ],
+    "sources": [
+      "https://www.turktraktor.com.tr/hakkimizda/biz-kimiz"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "OTKAR": {
+    "business": "Otokar otobüs ve diğer ticari araçlarla savunma amaçlı kara araçları üretir. Tasarım, mühendislik ve satış sonrası hizmetler araç programlarını destekler.",
+    "drivers": [
+      "İzlenecek: ihracat siparişleri ve teslimat takvimi",
+      "İzlenecek: ticari ve savunma ürünlerinin karması"
+    ],
+    "risks": [
+      "İzlenecek risk: büyük projelerin maliyet ve tahsilat döngüsü",
+      "İzlenecek risk: üretim geçişleri ve ihracat izinleri"
+    ],
+    "sources": [
+      "https://www.otokar.com.tr/getmedia/8241b7f0-ca0d-4a69-b49e-44fa01a7f614/otokar_2025_sunum"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "BRISA": {
+    "business": "Brisa Bridgestone ve Lassa markalarıyla lastik üretir. Lastik satışını filo hizmetleri, bakım ve mobilite çözümleriyle tamamlar.",
+    "drivers": [
+      "İzlenecek: yenileme pazarı ve ihracat talebi",
+      "İzlenecek: üretim verimliliği ve mobilite servisleri"
+    ],
+    "risks": [
+      "İzlenecek risk: kauçuk, enerji ve diğer girdi maliyetleri",
+      "İzlenecek risk: otomotiv döngüsü ve fiyat rekabeti"
+    ],
+    "sources": [
+      "https://www.brisa.com.tr/hakkimizda/brisa-hakkinda/kisaca-brisa/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "DOAS": {
+    "business": "Doğuş Otomotiv uluslararası araç markalarının Türkiye ithalat ve dağıtımını yapar. Servis, yedek parça ve araç sahipliğine ilişkin hizmetler satış modelini tamamlar.",
+    "drivers": [
+      "İzlenecek: marka karması ve araç satışları",
+      "İzlenecek: satış sonrası gelirler ve stok devri"
+    ],
+    "risks": [
+      "İzlenecek risk: kur, vergi ve taşıt kredisi koşulları",
+      "İzlenecek risk: ithalat rekabeti ve distribütör anlaşmaları"
+    ],
+    "sources": [
+      "https://www.dogusotomotiv.com.tr/tr/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "PETKM": {
+    "business": "Petkim entegre tesislerinde sanayiye yönelik petrokimya hammaddeleri üretir. Polimer ve diğer ürünleri ambalaj, plastik, tekstil ve çeşitli imalat alanlarında kullanılır.",
+    "drivers": [
+      "İzlenecek: ürün-hammadde fiyat makası",
+      "İzlenecek: rafineri entegrasyonu ve kapasite kullanımı"
+    ],
+    "risks": [
+      "İzlenecek risk: küresel petrokimya arz fazlası",
+      "İzlenecek risk: nafta, enerji ve bakım maliyetleri"
+    ],
+    "sources": [
+      "https://petkim.com.tr/yatirimci-iliskileri"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "HEKTS": {
+    "business": "Hektaş bitki koruma, bitki besleme ve tohumculuk ürünleri geliştirip satar. Akıllı tarım çözümleri ve teknik destek faaliyetleri ürün portföyünü tamamlar.",
+    "drivers": [
+      "İzlenecek: ruhsatlı ürün ve tohum portföyü",
+      "İzlenecek: tarımsal talep ve dağıtım verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: mevsimsellik, kuraklık ve üretici finansmanı",
+      "İzlenecek risk: ruhsat süreçleri, stok ve işletme sermayesi"
+    ],
+    "sources": [
+      "https://hektas.com.tr/kurumsal/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "GUBRF": {
+    "business": "Gübretaş bitki besleme ürünleri ve gübre faaliyetleri yürütür. Bağlı ortaklığı üzerinden Söğüt altın madeni projesi de grup faaliyetleri içinde yer alır.",
+    "drivers": [
+      "İzlenecek: gübre talebi ve ürün maliyetleri",
+      "İzlenecek: madencilik üretimi ile yatırım disiplini"
+    ],
+    "risks": [
+      "İzlenecek risk: gübre hammadde ve enerji fiyatları",
+      "İzlenecek risk: maden operasyonu, izinler ve emtia fiyatları"
+    ],
+    "sources": [
+      "https://www.gubretas.com.tr/tr/yatirimci-iliskileri"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "KONTR": {
+    "business": "Kontrolmatik enerji ve sanayi tesislerine elektrifikasyon, otomasyon ve sistem entegrasyonu çözümleri sunar. İştirakleri üzerinden batarya ve enerji depolama teknolojileri alanında da faaliyet gösterir.",
+    "drivers": [
+      "İzlenecek: proje teslimatı ve tahsilat",
+      "İzlenecek: depolama yatırımlarının ticari üretime dönüşümü"
+    ],
+    "risks": [
+      "İzlenecek risk: yüksek yatırım ve işletme sermayesi ihtiyacı",
+      "İzlenecek risk: yeni teknoloji ölçekleme ve proje maliyetleri"
+    ],
+    "sources": [
+      "https://www.kontrolmatik.com/sikca-sorulan-sorular"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "MIATK": {
+    "business": "MİA Teknoloji kimlik doğrulama, güvenlik ve sağlık bilişimi gibi alanlarda yazılım ve sistem çözümleri geliştirir. Proje kurulumu, donanım entegrasyonu ve ilgili hizmetler ürünlerini tamamlar.",
+    "drivers": [
+      "İzlenecek: projelerin satış ve tahsilata dönüşümü",
+      "İzlenecek: yazılım ürünlerinin tekrar kullanılabilirliği"
+    ],
+    "risks": [
+      "İzlenecek risk: proje yoğunlaşması ve tahsilat vadeleri",
+      "İzlenecek risk: Ar-Ge harcamalarının ticarileşmesi ve veri güvenliği"
+    ],
+    "sources": [
+      "https://www.miateknoloji.com/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "REEDR": {
+    "business": "Reeder akıllı telefon, tablet ve diğer tüketici teknolojisi ürünleri geliştirip satar. Elektrikli araç gibi yeni ürün alanları mevcut elektronik işine ek yatırım başlıkları oluşturur.",
+    "drivers": [
+      "İzlenecek: cihaz satışları ve kanal verimliliği",
+      "İzlenecek: yeni ürünlerin fiili üretim ve satış performansı"
+    ],
+    "risks": [
+      "İzlenecek risk: ithal bileşen, kur ve fiyat rekabeti",
+      "İzlenecek risk: yeni işlerin finansmanı ve stok yönetimi"
+    ],
+    "sources": [
+      "https://reeder.com.tr/pages/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "SDTTR": {
+    "business": "SDT savunma elektroniği, yazılım, radar ve elektronik harp sistemleri geliştirir. Uydu sinyal işleme ve simülasyon çözümleri uzmanlık alanlarını tamamlar.",
+    "drivers": [
+      "İzlenecek: savunma projelerinin teslimat performansı",
+      "İzlenecek: özgün ürünler ve ihracat imkânları"
+    ],
+    "risks": [
+      "İzlenecek risk: proje kabul ve tahsilat süreleri",
+      "İzlenecek risk: müşteri yoğunlaşması ve tedarik/izin süreçleri"
+    ],
+    "sources": [
+      "https://www.sdt.com.tr/tr/hakkimizda"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "VESTL": {
+    "business": "Vestel Elektronik grubu televizyon, elektronik ve beyaz eşya ürünleri üretir. İhracat, marka ve üretim ortaklıkları geniş ürün portföyünü farklı pazarlara taşır.",
+    "drivers": [
+      "İzlenecek: ihracat siparişleri ve ürün karması",
+      "İzlenecek: kapasite kullanımı ve maliyet verimliliği"
+    ],
+    "risks": [
+      "İzlenecek risk: tüketici elektroniğinde fiyat baskısı",
+      "İzlenecek risk: finansman, bileşen ve döviz maliyetleri"
+    ],
+    "sources": [
+      "https://vestelinternational.com/tr/yatirimci-iliskileri"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "VAKBN": {
+    "business": "VakıfBank bireysel, ticari, KOBİ ve kurumsal bankacılık hizmetleri verir. Kamu kurumları ve yerel yönetim bankacılığı da müşteri yapısı içinde yer alır.",
+    "drivers": [
+      "İzlenecek: müşteri ve kredi portföyü çeşitliliği",
+      "İzlenecek: fonlama yapısı ve komisyon gelirleri"
+    ],
+    "risks": [
+      "İzlenecek risk: kredi kalitesi ve sermaye yeterliliği",
+      "İzlenecek risk: mevduat maliyeti ve düzenleme değişimi"
+    ],
+    "sources": [
+      "https://vbassets.vakifbank.com.tr/interaktif_faaliyet_raporu/2026/onceliklerimiz-ve-surdurulebilirlik-yaklasimimiz/"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "HALKB": {
+    "business": "Halkbank özellikle esnaf ve KOBİ müşterilerine odaklanan ticari bankacılık hizmetleri sunar. Bireysel, kurumsal ve dijital bankacılık hizmetleri müşteri portföyünü tamamlar.",
+    "drivers": [
+      "İzlenecek: KOBİ müşteri tabanı ve komisyon üretimi",
+      "İzlenecek: kredi-mevduat ve sermaye dengesi"
+    ],
+    "risks": [
+      "İzlenecek risk: KOBİ kredi kalitesi ve karşılıklar",
+      "İzlenecek risk: fonlama maliyeti ve düzenlemeler"
+    ],
+    "sources": [
+      "https://www.halkbank.com.tr/tr/yatirimci-iliskileri/kisaca-halkbank"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  },
+  "TSKB": {
+    "business": "TSKB kurumsal kredi, proje finansmanı ve yatırım bankacılığı hizmetleri verir. Kurumsal finansman ve danışmanlık faaliyetleri uzun vadeli yatırım projelerine yönelik iş modelini tamamlar.",
+    "drivers": [
+      "İzlenecek: proje finansmanı talebi ve uluslararası kaynaklar",
+      "İzlenecek: kurumsal finansman ve danışmanlık gelirleri"
+    ],
+    "risks": [
+      "İzlenecek risk: uzun vadeli projelerde kredi ve tahsilat riski",
+      "İzlenecek risk: fonlama, kur ve vade uyumu"
+    ],
+    "sources": [
+      "https://www.tskb.com.tr/hizmetler/kurumsal-bankacilik"
+    ],
+    "verifiedAt": "2026-10-19",
+    "researchNote": "İş modeli resmî şirket/KAP kaynaklarından özetlenmiştir. İzlenecek başlıklar yapısal araştırma değerlendirmesidir; gerçekleşmiş performans veya fiyat tahmini değildir."
+  }
+}

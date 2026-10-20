@@ -1,0 +1,112 @@
+[
+  {
+    "cmcId": 825,
+    "legacyId": "tether",
+    "priorTemporaryId": "cmc-825",
+    "identityEvidence": [
+      "https://tether.to/en/transparency/"
+    ],
+    "symbol": "usdt",
+    "checkedAt": "2026-10-15T10:51:34.175065+00:00"
+  },
+  {
+    "cmcId": 3957,
+    "legacyId": "leo-token",
+    "priorTemporaryId": "cmc-3957",
+    "identityEvidence": [
+      "https://support.bitfinex.com/hc/en-us/articles/360023342674-Unus-Sed-LEO-LEO"
+    ],
+    "symbol": "leo",
+    "checkedAt": "2026-10-15T10:51:34.175142+00:00"
+  },
+  {
+    "cmcId": 36148,
+    "legacyId": "usd1-wlfi",
+    "priorTemporaryId": "cmc-36148",
+    "identityEvidence": [
+      "https://worldlibertyfinancial.com/usd1"
+    ],
+    "symbol": "usd1",
+    "checkedAt": "2026-10-15T10:51:34.175200+00:00"
+  },
+  {
+    "cmcId": 2087,
+    "legacyId": "kucoin-shares",
+    "priorTemporaryId": "cmc-2087",
+    "identityEvidence": [
+      "https://www.kucoin.com/kcs"
+    ],
+    "symbol": "kcs",
+    "checkedAt": "2026-10-15T10:51:34.175304+00:00"
+  },
+  {
+    "cmcId": 3794,
+    "legacyId": "cosmos",
+    "priorTemporaryId": "cmc-3794",
+    "identityEvidence": [
+      "https://docs.cosmos.network/hub/latest"
+    ],
+    "symbol": "atom",
+    "checkedAt": "2026-10-15T10:51:34.175541+00:00"
+  },
+  {
+    "cmcId": 35697,
+    "legacyId": "pi-network",
+    "priorTemporaryId": "cmc-35697",
+    "identityEvidence": [
+      "https://minepi.com/"
+    ],
+    "symbol": "pi",
+    "checkedAt": "2026-10-15T10:51:34.175607+00:00"
+  },
+  {
+    "cmcId": 10529,
+    "legacyId": "sun-token",
+    "priorTemporaryId": "cmc-10529",
+    "identityEvidence": [
+      "https://docs.sun.io/"
+    ],
+    "symbol": "sun",
+    "checkedAt": "2026-10-15T10:51:34.175848+00:00"
+  },
+  {
+    "cmcId": 1697,
+    "legacyId": "basic-attention-token",
+    "priorTemporaryId": "cmc-1697",
+    "identityEvidence": [
+      "https://basicattentiontoken.org/"
+    ],
+    "symbol": "bat",
+    "checkedAt": "2026-10-15T10:51:34.175903+00:00"
+  },
+  {
+    "cmcId": 30494,
+    "legacyId": "eigenlayer",
+    "priorTemporaryId": "cmc-30494",
+    "identityEvidence": [
+      "https://www.eigencloud.xyz/"
+    ],
+    "symbol": "eigen",
+    "checkedAt": "2026-10-15T10:51:34.176004+00:00"
+  },
+  {
+    "cmcId": 5964,
+    "legacyId": "trust-wallet-token",
+    "priorTemporaryId": "cmc-5964",
+    "identityEvidence": [
+      "https://trustwallet.com/tr/twt-wallet"
+    ],
+    "symbol": "twt",
+    "checkedAt": "2026-10-15T10:51:34.176058+00:00"
+  },
+  {
+    "cmcId": 4041,
+    "legacyId": "mx-token",
+    "priorTemporaryId": "cmc-4041",
+    "identityEvidence": [
+      "https://www.mexc.com/mx"
+    ],
+    "symbol": "mx",
+    "checkedAt": "2026-10-15T10:51:34.176257+00:00"
+  }
+]
