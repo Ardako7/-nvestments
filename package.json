@@ -1,9 +1,8 @@
 {
-  "name": "arda-research",
+  "name": "arda-research-ready",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "bash scripts/build.sh",
-    "validate": "node scripts/validate-artifact.mjs"
+    "validate": "node --input-type=module -e \"import('./dist/server/index.js').then(m=>{if(typeof m.default?.fetch!=='function')process.exit(1);console.log('Worker OK')})\""
   }
 }
